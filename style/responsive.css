@@ -15,4 +15,12 @@
     .descricao {
         width:50%
     }
+
+    .filme-principal {
+        height: 800px;
+    }
+
+    .carrossel-filmes .lista-titulo {
+        font-size: 1.6rem;    
+    }
 }
